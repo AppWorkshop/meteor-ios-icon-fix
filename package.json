@@ -1,0 +1,32 @@
+{
+  "name": "meteor-ios-icon-fix",
+  "version": "1.0.0",
+  "description": "Fixes the issue where meteor/cordova copies old cordova icons for iOS 5 and 6, and doesn't include a marketing icon",
+  "cordova": {
+    "id": "meteor-ios-icon-fix",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AppWorkshop/meteor-ios-icon-fix"
+  },
+  "keywords": [
+    "cordova",
+    "meteor",
+    "ios",
+    "ios10",
+    "csp"
+  ],
+  "author": "Mike Cunneen - The App Workshop",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AppWorkshop/meteor-ios-icon-fix/issues"
+  },
+  "homepage": "https://github.com/AppWorkshop/meteor-ios-icon-fix#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "xml2js": "^0.4.19"
+  }
+}
