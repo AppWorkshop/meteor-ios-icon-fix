@@ -12,6 +12,7 @@ meteor add cordova:meteor-ios-icon-fix@1.0.0
 
 ### Illustration
 
+Meteor 1.4.4.4 without this plugin:
 <img width="1287" alt="meteor_1 4 4 4_noplugin" src="https://user-images.githubusercontent.com/1751645/31778270-d17d3efc-b522-11e7-9f10-aeded7b5c665.png">
 
 Meteor 1.4.4.4 with this plugin:
